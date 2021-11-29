@@ -22,6 +22,17 @@ public class Variables {
         System.out.println(favFood);
         System.out.println(favBand);
 
+        // Deklarasi konstant
+        final String ibu = "Yuni";
+        final var ayah = "Sehu";
+
+        // final variable tidak bisa lagi diubah value nya.
+//        ibu = "Nama Diubah";
+//        ayah = "Nama Diubah";
+
+        System.out.println(ibu);
+        System.out.println(ayah);
+
     }
 
 }

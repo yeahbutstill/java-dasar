@@ -153,7 +153,11 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Sejak versi Java 10, Java mendukung pembuatan dengan kata kunci var, sehinnga kita tidak perlu menyebutkan tipe datanya.
 - Namun perlu diingat, saat kita menggunakan kata kunci var untuk membuat variable, kita harus menginisiasi value/nilai dari variable tersebut secara langsung.
 
-## 
+## - Kata Kunci final
+- Secara default, variable di Java bisa diubah-ubah nilainya.
+- Jika kita ingin membuat sebuah variable yang datanya tidak boleh diubah setelah pertama kali dibuat, kita bisa menggunakan kata kunci final.
+- istilah variable seperti ini, banyak juga yang menyebutnya konstan.
+
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
