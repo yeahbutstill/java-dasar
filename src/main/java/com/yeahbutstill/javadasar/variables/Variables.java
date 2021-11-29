@@ -15,6 +15,13 @@ public class Variables {
         System.out.println(age);
         System.out.println(address);
 
+        // Deklarasi variable menggunakan keyword var
+        var favFood = "Nasi Goreng";
+        var favBand = "Title Fight";
+
+        System.out.println(favFood);
+        System.out.println(favBand);
+
     }
 
 }

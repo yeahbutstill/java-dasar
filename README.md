@@ -149,5 +149,11 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Untuk membuat variable di Java teman-teman bisa menggunakan nama tipe data lalu diikutin dengan nama variable nya.
 - Nama variable tidak boleh mengandung whitespace(spasi, enter, tab) dan tidak boleh seluruhnya number.
 
+## - Kata Kunci var
+- Sejak versi Java 10, Java mendukung pembuatan dengan kata kunci var, sehinnga kita tidak perlu menyebutkan tipe datanya.
+- Namun perlu diingat, saat kita menggunakan kata kunci var untuk membuat variable, kita harus menginisiasi value/nilai dari variable tersebut secara langsung.
+
+## 
+
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
