@@ -142,5 +142,12 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Di Java, tipe data String direpresentasikan dengan kata kunci String.
 - Untuk membuat String di Java, teman-teman bisa menggunakan karakter " "(petik dua) sebelum dan setelah teks nya.
 - Default value untuk String adalah null.
+      
+## - Variable
+- Variable adalah tempat untuk menyimpan data.
+- Java adalah bahasa static type, sehingga sebuah variable hanya bisa digunakan untuk menyimpan tipe data yang sama, tidak bisa berubah-ubah tipe data seperti bahasa pemrograman PHP atau JavaScript.
+- Untuk membuat variable di Java teman-teman bisa menggunakan nama tipe data lalu diikutin dengan nama variable nya.
+- Nama variable tidak boleh mengandung whitespace(spasi, enter, tab) dan tidak boleh seluruhnya number.
+
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
