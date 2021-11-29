@@ -24,6 +24,17 @@ public class TipeDataArray {
         
         System.out.println(arrayLong.length);
 
+        // Array di dalam Array
+        String[][] members = {
+                {"Dani", "Maya"},
+                {"Winda", "Lestari"},
+                {"Sasuke"}
+        };
+
+        System.out.println(members[0][1]);
+        System.out.println(members[1][0]);
+        System.out.println(members[2][0]);
+
     }
 
 }
