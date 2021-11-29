@@ -136,4 +136,11 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Nilai salah direpresentasikan dengan kata kunci false.
 - Default value untuk boolean adalah false.
 
+## - Tipe Data String
+
+- Tipe Data String adalah tipe data yang berisikan data kumpulan karakter atau sederhananya adalah teks.
+- Di Java, tipe data String direpresentasikan dengan kata kunci String.
+- Untuk membuat String di Java, teman-teman bisa menggunakan karakter " "(petik dua) sebelum dan setelah teks nya.
+- Default value untuk String adalah null.
+
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
