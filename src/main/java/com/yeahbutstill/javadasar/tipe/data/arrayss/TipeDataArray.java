@@ -21,6 +21,8 @@ public class TipeDataArray {
         long[] arrayLong = {
                 10L,90L,20L,80L,40L,30L
         };
+        
+        System.out.println(arrayLong.length);
 
     }
 

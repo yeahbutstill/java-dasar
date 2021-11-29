@@ -183,7 +183,12 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Jadi nanti ketika kita pertama declarasi Array kita harus tentukan panjang Array nya, perlu diingat tipe data Array harus sama tipe data yang di tampungnya, misalkan kita bikin tipe Array Integer maka nilai yang bisa ditampungnya adalah 1,2,3,4,5 dan seterusnya sesuai dengan panjang Array nya. 
 - identitas tiap nilainya menggunakan Index dimulai dari 0.
 
-## - 
+## - Operasi di Array
+| Operasi Array | Keterangan |
+|---|------|
+|array[index] | Mengambil data di array |
+|array[index] = value | Mengubah data di array |
+|array.lengt | Mengambil panjang array |
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
