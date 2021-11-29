@@ -190,5 +190,15 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |array[index] = value | Mengubah data di array |
 |array.lengt | Mengambil panjang array |
 
+## - Operasi Matematika
+| Operator | Keterangan |
+|---|------|
+|+ | Penjumlahan |
+|- | Pengurangan |
+|* | Perkalian |
+|/ | Pembagian |
+|% | Sisa Pembagian |
+
+
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
