@@ -176,7 +176,14 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
   |char | Character|
   |boolean | Boolean|
 
-## 
+## - Tipe Data Array
+- Array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama.
+- jumlah data di Array tidak bisa berubah setelah pertama kali dibuat.
+- [Cara Keja Array](src/main/resources/images/Screenshot_2021-11-29_22-33-56.png)
+- Jadi nanti ketika kita pertama declarasi Array kita harus tentukan panjang Array nya, perlu diingat tipe data Array harus sama tipe data yang di tampungnya, misalkan kita bikin tipe Array Integer maka nilai yang bisa ditampungnya adalah 1,2,3,4,5 dan seterusnya sesuai dengan panjang Array nya. 
+- identitas tiap nilainya menggunakan Index dimulai dari 0.
+
+## - 
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
