@@ -199,6 +199,16 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |/ | Pembagian |
 |% | Sisa Pembagian |
 
+## Augmented Assignments
+| Operator Matematika | Augmented Assignments |
+|---|------|
+|a = a + 10 | a+=10 |
+|a = a - 10 | a-= 10 |
+|a = a * 10 | a*= 10 |
+|a = a / 10 | a/= 10 |
+|a = a % 10 | a%=10 |
+
+
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
