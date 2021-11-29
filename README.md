@@ -111,15 +111,29 @@ int binaryDecimal=0B10101010;
 ```
 
 ## - Kode: Underscore
-sejak Java Versi 8 teman-teman bisa nembahkan Underscore dianka(1_000_000) ini digunakan hanya untuk pemisah, jika angka sudah semakin besar jumlahnya, agar mudah dibaca.
+
+sejak Java Versi 8 teman-teman bisa nembahkan Underscore dianka(1_000_000) ini digunakan hanya untuk pemisah, jika angka
+sudah semakin besar jumlahnya, agar mudah dibaca.
 
 ## - Konversi Tipe Data Number
+
 - Widening Casting(Otomatis): byte -> short -> int -> long -> float -> double
 - Narrowing Casting(Manual): double -> float -> long -> int -> char -> short -> byte
-- hati-hati mengkonversi secara paksa(manual) jika nilai tampungnya lebih kecil dari nilai aslinya, makan java akan secara otomatis terkena NumberOverFlow adalah jadi misalahnya nanti ketika dikonversi nilai tampungnya sudah mencapai batas tampungnya dia akan balik lagi kebelakang (minus) sampai hasil aslinya.
+- hati-hati mengkonversi secara paksa(manual) jika nilai tampungnya lebih kecil dari nilai aslinya, makan java akan
+  secara otomatis terkena NumberOverFlow adalah jadi misalahnya nanti ketika dikonversi nilai tampungnya sudah mencapai
+  batas tampungnya dia akan balik lagi kebelakang (minus) sampai hasil aslinya.
 
 ## - Tipe Data Character
+
 - Data Character(huruf) di Java direpresentasikan oleh tipe char.
 - Untuk membuat data char di Java, teman-teman bisa menggunakan tanda ''(petik).
+
+## - Tipe Data Boolean
+
+- Tipe data boolean adalah tipe data yang memiliki 2 nilai, yaitu benar dan salah
+- Tipe data boolean di Java direpresentasikan dengan kata kunci boolean
+- Nilai benar direpresentasikan dengan kata kunci true.
+- Nilai salah direpresentasikan dengan kata kunci false.
+- Default value untuk boolean adalah false.
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
