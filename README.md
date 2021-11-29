@@ -157,7 +157,26 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Secara default, variable di Java bisa diubah-ubah nilainya.
 - Jika kita ingin membuat sebuah variable yang datanya tidak boleh diubah setelah pertama kali dibuat, kita bisa menggunakan kata kunci final.
 - istilah variable seperti ini, banyak juga yang menyebutnya konstan.
+ 
+## Tipe Data Bukan Primitif
+- Sebenarnya Java itu adalah bahasa program yang berorientasi objek, nah idealnya saat kita menggunakan bahasa pemrograman yang berorientasi objek itu semua tipe data harusnya adalah Object.
+- Tipe Data Primitif adalah tipe bawaan di dalam bahasa pemrograman. Tipe data primitif tidak bisa diubah lagi.
+- Tipe data number, char, boolean, adalah tipe data primitif. Tipe data primitif selalu memiliki default value.
+- Tipe data String bukan tipe data primitif, tipe data bukan primitif tidak memiliki default value, dan bisa bernilai null.
+- Tipe data bukan primitif bisa memiliki method/function.
+- Di Java, semua tipe data primitif memiliki representasi tipe data bukan primitif nya.
+- | Tipe Data Primitif | Tipe Data Bukan Primitif |
+  |-----------|-----------------------------------|
+  |byte | Byte|
+  |short | Short|
+  |int | Integer|
+  |long | Long|
+  |float | Float|
+  |double | Double|
+  |char | Character|
+  |boolean | Boolean|
 
+## 
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
