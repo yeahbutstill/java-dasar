@@ -12,6 +12,16 @@ public class TipeDataArray {
         System.out.println(arrayString[0]);
         System.out.println(arrayString[1]);
         System.out.println(arrayString[2]);
+
+        // Array Initializer
+        int[] arrayInt = new int[]{
+                10,90,80,67,29
+        };
+
+        long[] arrayLong = {
+                10L,90L,20L,80L,40L,30L
+        };
+
     }
 
 }
