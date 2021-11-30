@@ -281,6 +281,26 @@ ini adalah operasi kebalikan.
 - Block adalah kumpulan statment yang terdiri dari nol atau lebih statement.
 - Block diawali dan diakhiri dengan kurung kurawal {}
 
+## If Statement
+- Dalam Java, if adalah salah satu kata kunci yang digunakan untuk percabangan.
+- Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi.
+- Hampir di semua bahasa pemrograman mendukung if expression.
+
+## Else Statement
+- Block if akan dieksekusi ketika kondisi if bernilai true.
+- Kadang kita ingin melakukan eksekusi program tertentu jika kondisi if bernilai false.
+- Hal ini bisa dilakukan menggunakan else expression.
+
+## Else if Statement
+- Terkadang dalam if, kita butuh membuat beberapa kondisi.
+- Kasus seperti ini, di Java kita bisa menggunakan Else If expression.
+- Else if di Java bisa lebih dari satu.
+
+## Switch Statement
+- Kadang kita hanya butuh menggunakan kondisi sederhana di if statement, seperti hanya menggunakan perbandingan == 
+- Switch adalah statement percabangan yang sama dengan if, namun lebih sederhana cara pembuatannya.
+- Kondisi di switch statement hanya untuk perbandingan ==
+
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
