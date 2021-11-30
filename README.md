@@ -199,7 +199,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |/ | Pembagian |
 |% | Sisa Pembagian |
 
-## Augmented Assignments
+## - Augmented Assignments
 | Operator Matematika | Augmented Assignments |
 |---|------|
 |a = a + 10 | a+=10 |
@@ -208,7 +208,14 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |a = a / 10 | a/= 10 |
 |a = a % 10 | a%=10 |
 
-
+## - Unary Operator
+| Operator | Keterangan |
+|---|------|
+|++ | a=a+1 |
+|-- | a=a-1 |
+|- | Negative |
+|+ | Positive |
+|! | Boolean kebalikan |
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)

@@ -27,7 +27,20 @@ public class OperasiMatematika {
         c *= 10;
         System.out.println(c);
 
+        System.out.println("======================");
+
         // Unary Operator
+        int d = +100;
+        int e = -10;
+
+        d++;
+        System.out.println(d);
+
+        d--;
+        System.out.println(d);
+
+        System.out.println(e);
+        System.out.println(!true);
 
 
     }
