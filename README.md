@@ -217,5 +217,21 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |+ | Positive |
 |! | Boolean kebalikan |
 
+## - Operasi Perbandingan 
+- Operasi perbandingan adalah operasi untuk membandingkan dua buah data.
+- Operasi perbandingan adalah operasi yang menghasilkan nilai boolean(benar atau salah)
+- Jika hasil operasi adalah benar, maka nilai nya adalah true.
+- Jika hasilnya adalah salah, maka nilainya adalah false.
+
+| Operator | Keterangan |
+|---|------|
+| > | Lebih Dari |
+| < | Kurang Dari |
+|>= | Lebih Dari Sama Dengan |
+|<= | Kurang Dari Sama Dengan |
+|== | Sama Dengan |
+|!= | Tidak Sama Dengan |
+   
+
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
