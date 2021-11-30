@@ -269,6 +269,18 @@ ini adalah operasi kebalikan.
 ## - Expression, Statement & Block
 - Expresion adalah konstruksi dari variable, operator dan pemanggilan method yang mengevaluasi menjadi sebuah single value.
 - Expression adalah core component dari statement.
+- Statement bisa dibilang adalah kalimat lengkap dalam bahasa.
+- Sebuah statement berisikan execution komplit, biasanya diakhiri dengan titik koma.
+- ada beberapa jenis statement:
+  - Assignment expression
+  - Penggunaan ++ dan --
+  - Method invocation.
+  - Object creation expression.
+
+## Block
+- Block adalah kumpulan statment yang terdiri dari nol atau lebih statement.
+- Block diawali dan diakhiri dengan kurung kurawal {}
+
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
