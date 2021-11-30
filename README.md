@@ -225,13 +225,50 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 
 | Operator | Keterangan |
 |---|------|
-| > | Lebih Dari |
+| *>* | Lebih Dari |
 | < | Kurang Dari |
 |>= | Lebih Dari Sama Dengan |
 |<= | Kurang Dari Sama Dengan |
 |== | Sama Dengan |
 |!= | Tidak Sama Dengan |
    
+ ## - Operasi Boolean(Operasi yang digunakan untuk 2 data boolean)
+| Operator | Keterangan |
+|---|------|
+|&& | Dan |
+|II | Atau |
+|! | Kebalikan |
+- Operasi &&
+
+| Nila 1 | Operator | Nilai 2 | Hasil |
+|---|------|------|------|
+|true | && | true | true |
+|true | && | false | false |
+|false | && | true | false |
+|false | && | false | false |
+Operator dan itu nilai kiri dan kanan nya harus sama-sama bernilai true, jika hasilnya ingin true (hanya akan true kalau dua nilainya true).
+
+- Operasi ||
+
+| Nila 1 | Operator | Nilai 2 | Hasil |
+|---|------|------|------|
+|true | II | true | true |
+|true | II | false | true |
+|false | II | true | true |
+|false | II | false | false |
+ Operasi atau akan bernilai true jika nila kiri dan kanannya ada yang bernilai true.
+           
+- Operasi !
+
+| Operator | Nilai 1 | Hasil |
+|------|------|------|
+|! | true | false |
+|! | false | true |
+ini adalah operasi kebalikan.
+
+## - Expression, Statement & Block
+- Expresion adalah konstruksi dari variable, operator dan pemanggilan method yang mengevaluasi menjadi sebuah single value.
+- Expression adalah core component dari statement.
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
