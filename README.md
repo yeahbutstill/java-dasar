@@ -332,4 +332,9 @@ ini adalah operasi kebalikan.
 - Switch adalah statement percabangan yang sama dengan if, namun lebih sederhana cara pembuatannya.
 - Kondisi di switch statement hanya untuk perbandingan ==
 
+## Switch Lambda
+- Di Java vesri 14, diperkenalkan switch expression dengan lambda.
+- ini lebih mempermudah saat penggunaan switch expression karena kita tidak perlu lagi menggunakan kata kunci break.
+
+
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
