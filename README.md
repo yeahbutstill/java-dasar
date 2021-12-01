@@ -176,7 +176,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Tipe data bukan primitif bisa memiliki method/function.
 - Di Java, semua tipe data primitif memiliki representasi tipe data bukan primitif nya.
 - | Tipe Data Primitif | Tipe Data Bukan Primitif |
-          |-----------|-----------------------------------|
+            |-----------|-----------------------------------|
   |byte | Byte|
   |short | Short|
   |int | Integer|
@@ -333,16 +333,40 @@ ini adalah operasi kebalikan.
 - Kondisi di switch statement hanya untuk perbandingan ==
 
 ## Switch Lambda
+
 - Di Java vesri 14, diperkenalkan switch expression dengan lambda.
 - ini lebih mempermudah saat penggunaan switch expression karena kita tidak perlu lagi menggunakan kata kunci break.
 
 ## Kata Kunci yield
-- Di Java 14, ada kata kunci baru ya itu yield, dimana kita bisa menggunakan kata kunci yield untuk mengembalikan nilai pada switch statement.
+
+- Di Java 14, ada kata kunci baru ya itu yield, dimana kita bisa menggunakan kata kunci yield untuk mengembalikan nilai
+  pada switch statement.
 - ini sangat mempermudah kita ketika butuh membuat data berdasarkan kondisi switch statement.
 
 ## Ternary Operator
-- Ternary operator adalah operator sederhana dari if statement.
-- Ternary operator terdiri dari kondisi yang dievaluasi, jika menghasilkan true maka nilai pertama diambil, jika false, maka nilai kedua diambil.
 
+- Ternary operator adalah operator sederhana dari if statement.
+- Ternary operator terdiri dari kondisi yang dievaluasi, jika menghasilkan true maka nilai pertama diambil, jika false,
+  maka nilai kedua diambil.
+
+## For Loop
+
+- For adalah salah satu kata kunci yang bisa digunakan untuk melakukan perulangan.
+- Blok kode yang terdapat di dalam for akan selalu diulangi selama kondisi for terpenuhi.
+
+## Sintak Perulangan For
+
+```java
+  for(init statement;kondisi;post statement){
+    // blok perulangan
+  }
+
+```
+- Init statement akan dieksekusi hanya sekali di awal sebelum perulangan.
+- Kondisi akan dilakukan pengecekan dalam setiap perulangan, jika true perulangan akan dilakukan, jika false perulangan akan berhenti.
+- Post statement akan dieksekusi setiap kali diakhiri perulangan.
+- Init statement, Kondisi dan Post Statement tidak wajib diisi, jika Kondisi tidak diisi, berarti kondisi selalu bernilai true.
+
+## 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
