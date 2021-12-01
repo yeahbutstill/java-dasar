@@ -336,5 +336,8 @@ ini adalah operasi kebalikan.
 - Di Java vesri 14, diperkenalkan switch expression dengan lambda.
 - ini lebih mempermudah saat penggunaan switch expression karena kita tidak perlu lagi menggunakan kata kunci break.
 
+## Kata Kunci yield
+- Di Java 14, ada kata kunci baru ya itu yield, dimana kita bisa menggunakan kata kunci yield untuk mengembalikan nilai pada switch statement.
+- ini sangat mempermudah kita ketika butuh membuat data berdasarkan kondisi switch statement.
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
