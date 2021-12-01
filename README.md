@@ -340,4 +340,9 @@ ini adalah operasi kebalikan.
 - Di Java 14, ada kata kunci baru ya itu yield, dimana kita bisa menggunakan kata kunci yield untuk mengembalikan nilai pada switch statement.
 - ini sangat mempermudah kita ketika butuh membuat data berdasarkan kondisi switch statement.
 
+## Ternary Operator
+- Ternary operator adalah operator sederhana dari if statement.
+- Ternary operator terdiri dari kondisi yang dievaluasi, jika menghasilkan true maka nilai pertama diambil, jika false, maka nilai kedua diambil.
+
+
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
