@@ -367,6 +367,8 @@ ini adalah operasi kebalikan.
 - Post statement akan dieksekusi setiap kali diakhiri perulangan.
 - Init statement, Kondisi dan Post Statement tidak wajib diisi, jika Kondisi tidak diisi, berarti kondisi selalu bernilai true.
 
-## 
+## While Loop
+- While loop adalah versi perulangan yang lebih sederhana dibandingkan dengan for loop.
+- Di While loop, hanya terdapat kondisi perulangan tanpa ada init statement dan post statement.
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
