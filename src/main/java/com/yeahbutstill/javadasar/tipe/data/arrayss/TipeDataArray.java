@@ -15,13 +15,13 @@ public class TipeDataArray {
 
         // Array Initializer
         int[] arrayInt = new int[]{
-                10,90,80,67,29
+                10, 90, 80, 67, 29
         };
 
         long[] arrayLong = {
-                10L,90L,20L,80L,40L,30L
+                10L, 90L, 20L, 80L, 40L, 30L
         };
-        
+
         System.out.println(arrayLong.length);
 
         // Array di dalam Array

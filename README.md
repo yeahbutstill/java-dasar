@@ -142,31 +142,41 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Di Java, tipe data String direpresentasikan dengan kata kunci String.
 - Untuk membuat String di Java, teman-teman bisa menggunakan karakter " "(petik dua) sebelum dan setelah teks nya.
 - Default value untuk String adalah null.
-      
+
 ## - Variable
+
 - Variable adalah tempat untuk menyimpan data.
-- Java adalah bahasa static type, sehingga sebuah variable hanya bisa digunakan untuk menyimpan tipe data yang sama, tidak bisa berubah-ubah tipe data seperti bahasa pemrograman PHP atau JavaScript.
+- Java adalah bahasa static type, sehingga sebuah variable hanya bisa digunakan untuk menyimpan tipe data yang sama,
+  tidak bisa berubah-ubah tipe data seperti bahasa pemrograman PHP atau JavaScript.
 - Untuk membuat variable di Java teman-teman bisa menggunakan nama tipe data lalu diikutin dengan nama variable nya.
 - Nama variable tidak boleh mengandung whitespace(spasi, enter, tab) dan tidak boleh seluruhnya number.
 
 ## - Kata Kunci var
-- Sejak versi Java 10, Java mendukung pembuatan dengan kata kunci var, sehinnga kita tidak perlu menyebutkan tipe datanya.
-- Namun perlu diingat, saat kita menggunakan kata kunci var untuk membuat variable, kita harus menginisiasi value/nilai dari variable tersebut secara langsung.
+
+- Sejak versi Java 10, Java mendukung pembuatan dengan kata kunci var, sehinnga kita tidak perlu menyebutkan tipe
+  datanya.
+- Namun perlu diingat, saat kita menggunakan kata kunci var untuk membuat variable, kita harus menginisiasi value/nilai
+  dari variable tersebut secara langsung.
 
 ## - Kata Kunci final
+
 - Secara default, variable di Java bisa diubah-ubah nilainya.
-- Jika kita ingin membuat sebuah variable yang datanya tidak boleh diubah setelah pertama kali dibuat, kita bisa menggunakan kata kunci final.
+- Jika kita ingin membuat sebuah variable yang datanya tidak boleh diubah setelah pertama kali dibuat, kita bisa
+  menggunakan kata kunci final.
 - istilah variable seperti ini, banyak juga yang menyebutnya konstan.
- 
+
 ## Tipe Data Bukan Primitif
-- Sebenarnya Java itu adalah bahasa program yang berorientasi objek, nah idealnya saat kita menggunakan bahasa pemrograman yang berorientasi objek itu semua tipe data harusnya adalah Object.
+
+- Sebenarnya Java itu adalah bahasa program yang berorientasi objek, nah idealnya saat kita menggunakan bahasa
+  pemrograman yang berorientasi objek itu semua tipe data harusnya adalah Object.
 - Tipe Data Primitif adalah tipe bawaan di dalam bahasa pemrograman. Tipe data primitif tidak bisa diubah lagi.
 - Tipe data number, char, boolean, adalah tipe data primitif. Tipe data primitif selalu memiliki default value.
-- Tipe data String bukan tipe data primitif, tipe data bukan primitif tidak memiliki default value, dan bisa bernilai null.
+- Tipe data String bukan tipe data primitif, tipe data bukan primitif tidak memiliki default value, dan bisa bernilai
+  null.
 - Tipe data bukan primitif bisa memiliki method/function.
 - Di Java, semua tipe data primitif memiliki representasi tipe data bukan primitif nya.
 - | Tipe Data Primitif | Tipe Data Bukan Primitif |
-  |-----------|-----------------------------------|
+      |-----------|-----------------------------------|
   |byte | Byte|
   |short | Short|
   |int | Integer|
@@ -177,13 +187,17 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
   |boolean | Boolean|
 
 ## - Tipe Data Array
+
 - Array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama.
 - jumlah data di Array tidak bisa berubah setelah pertama kali dibuat.
 - [Cara Keja Array](src/main/resources/images/Screenshot_2021-11-29_22-33-56.png)
-- Jadi nanti ketika kita pertama declarasi Array kita harus tentukan panjang Array nya, perlu diingat tipe data Array harus sama tipe data yang di tampungnya, misalkan kita bikin tipe Array Integer maka nilai yang bisa ditampungnya adalah 1,2,3,4,5 dan seterusnya sesuai dengan panjang Array nya. 
+- Jadi nanti ketika kita pertama declarasi Array kita harus tentukan panjang Array nya, perlu diingat tipe data Array
+  harus sama tipe data yang di tampungnya, misalkan kita bikin tipe Array Integer maka nilai yang bisa ditampungnya
+  adalah 1,2,3,4,5 dan seterusnya sesuai dengan panjang Array nya.
 - identitas tiap nilainya menggunakan Index dimulai dari 0.
 
 ## - Operasi di Array
+
 | Operasi Array | Keterangan |
 |---|------|
 |array[index] | Mengambil data di array |
@@ -191,6 +205,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |array.lengt | Mengambil panjang array |
 
 ## - Operasi Matematika
+
 | Operator | Keterangan |
 |---|------|
 |+ | Penjumlahan |
@@ -200,6 +215,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |% | Sisa Pembagian |
 
 ## - Augmented Assignments
+
 | Operator Matematika | Augmented Assignments |
 |---|------|
 |a = a + 10 | a+=10 |
@@ -209,6 +225,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |a = a % 10 | a%=10 |
 
 ## - Unary Operator
+
 | Operator | Keterangan |
 |---|------|
 |++ | a=a+1 |
@@ -217,7 +234,8 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |+ | Positive |
 |! | Boolean kebalikan |
 
-## - Operasi Perbandingan 
+## - Operasi Perbandingan
+
 - Operasi perbandingan adalah operasi untuk membandingkan dua buah data.
 - Operasi perbandingan adalah operasi yang menghasilkan nilai boolean(benar atau salah)
 - Jika hasil operasi adalah benar, maka nilai nya adalah true.
@@ -227,17 +245,19 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |---|------|
 | *>* | Lebih Dari |
 | < | Kurang Dari |
-|>= | Lebih Dari Sama Dengan |
+|> = | Lebih Dari Sama Dengan |
 |<= | Kurang Dari Sama Dengan |
 |== | Sama Dengan |
 |!= | Tidak Sama Dengan |
-   
- ## - Operasi Boolean(Operasi yang digunakan untuk 2 data boolean)
+
+## - Operasi Boolean(Operasi yang digunakan untuk 2 data boolean)
+
 | Operator | Keterangan |
 |---|------|
 |&& | Dan |
 |II | Atau |
 |! | Kebalikan |
+
 - Operasi &&
 
 | Nila 1 | Operator | Nilai 2 | Hasil |
@@ -246,7 +266,9 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 |true | && | false | false |
 |false | && | true | false |
 |false | && | false | false |
-Operator dan itu nilai kiri dan kanan nya harus sama-sama bernilai true, jika hasilnya ingin true (hanya akan true kalau dua nilainya true).
+
+Operator dan itu nilai kiri dan kanan nya harus sama-sama bernilai true, jika hasilnya ingin true (hanya akan true kalau
+dua nilainya true).
 
 - Operasi ||
 
@@ -256,51 +278,58 @@ Operator dan itu nilai kiri dan kanan nya harus sama-sama bernilai true, jika ha
 |true | II | false | true |
 |false | II | true | true |
 |false | II | false | false |
- Operasi atau akan bernilai true jika nila kiri dan kanannya ada yang bernilai true.
-           
+
+Operasi atau akan bernilai true jika nila kiri dan kanannya ada yang bernilai true.
+
 - Operasi !
 
 | Operator | Nilai 1 | Hasil |
 |------|------|------|
 |! | true | false |
 |! | false | true |
+
 ini adalah operasi kebalikan.
 
 ## - Expression, Statement & Block
-- Expresion adalah konstruksi dari variable, operator dan pemanggilan method yang mengevaluasi menjadi sebuah single value.
+
+- Expresion adalah konstruksi dari variable, operator dan pemanggilan method yang mengevaluasi menjadi sebuah single
+  value.
 - Expression adalah core component dari statement.
 - Statement bisa dibilang adalah kalimat lengkap dalam bahasa.
 - Sebuah statement berisikan execution komplit, biasanya diakhiri dengan titik koma.
 - ada beberapa jenis statement:
-  - Assignment expression
-  - Penggunaan ++ dan --
-  - Method invocation.
-  - Object creation expression.
+    - Assignment expression
+    - Penggunaan ++ dan --
+    - Method invocation.
+    - Object creation expression.
 
 ## Block
+
 - Block adalah kumpulan statment yang terdiri dari nol atau lebih statement.
 - Block diawali dan diakhiri dengan kurung kurawal {}
 
 ## If Statement
+
 - Dalam Java, if adalah salah satu kata kunci yang digunakan untuk percabangan.
 - Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi.
 - Hampir di semua bahasa pemrograman mendukung if expression.
 
 ## Else Statement
+
 - Block if akan dieksekusi ketika kondisi if bernilai true.
 - Kadang kita ingin melakukan eksekusi program tertentu jika kondisi if bernilai false.
 - Hal ini bisa dilakukan menggunakan else expression.
 
 ## Else if Statement
+
 - Terkadang dalam if, kita butuh membuat beberapa kondisi.
 - Kasus seperti ini, di Java kita bisa menggunakan Else If expression.
 - Else if di Java bisa lebih dari satu.
 
 ## Switch Statement
-- Kadang kita hanya butuh menggunakan kondisi sederhana di if statement, seperti hanya menggunakan perbandingan == 
+
+- Kadang kita hanya butuh menggunakan kondisi sederhana di if statement, seperti hanya menggunakan perbandingan ==
 - Switch adalah statement percabangan yang sama dengan if, namun lebih sederhana cara pembuatannya.
 - Kondisi di switch statement hanya untuk perbandingan ==
-
-
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
