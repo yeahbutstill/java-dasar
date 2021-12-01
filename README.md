@@ -371,4 +371,12 @@ ini adalah operasi kebalikan.
 - While loop adalah versi perulangan yang lebih sederhana dibandingkan dengan for loop.
 - Di While loop, hanya terdapat kondisi perulangan tanpa ada init statement dan post statement.
 
+## Do While Loop
+- Do While loop adalah perulangan yang mirip dengan while.
+- Perbedaannya hanya pada pengecekan kondisi.
+- Pengecekan kondisi di while loop dilakukan di awal sebelum perulangan dilakukan, sedangkan di do while loop dilakukan setelah perulangan dilakukan.
+- Oleh karena itu dalam do while loop, minimal pasti sekali perulangan dilakukan walaupun kodisinya tidak bernilai true.
+
+
+
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
