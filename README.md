@@ -176,7 +176,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Tipe data bukan primitif bisa memiliki method/function.
 - Di Java, semua tipe data primitif memiliki representasi tipe data bukan primitif nya.
 - | Tipe Data Primitif | Tipe Data Bukan Primitif |
-      |-----------|-----------------------------------|
+          |-----------|-----------------------------------|
   |byte | Byte|
   |short | Short|
   |int | Integer|
