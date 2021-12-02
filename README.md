@@ -451,6 +451,11 @@ ini adalah operasi kebalikan.
 - Hal ini disebut dengan scope
 - Contoh, jika sebuah variable dibuat di method, maka hanya bisa diakses di method tersebut, atau jika dibuat didalam block, maka hanya bisa diakses didalam block tersebut.
 
-## K
+## Komentar
+- Kadang dalam membuat program, kita sering menempatkan komentar di kode program tersebut
+- Komentar adalah kode program yang akan dihiraukan saat proses kompilasi, sehingga di binary code Java, tidak akan ada kode komentar tersebut
+- Biasanya komentar digunakan untuk dokumentasi
+
+## 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
