@@ -401,6 +401,12 @@ ini adalah operasi kebalikan.
 - Parameter ditempatkan di dalam kurung () di deklarasi method.
 - Parameter bisa lebih dari satu, jika lebih dari satu, harus dipisah menggunakan tanda koma.
 
+## Method Return Value
+- Secara default, method itu tidak menghasilkan value apapun, namun jika kita ingin, kita bisa membuat sebuah method mengembalikan nilai.
+- Agar method bisa menghasilkan value, kita harus mengubah kata kunci void dengan tipe data yang dihasilkan.
+- Dan didalam blok method, untuk menghasilkan nilai tersebut, kita harus menggunakan kata kunci return, lalu diikuti dengan data yang sesuai dengan tipe data yang sudah kita deklarasikan di method.
+- Di Java, kita hanya bisa menghasilkan 1 data di sebuah method, tidak bisa lebih dari satu.
 
+##
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
