@@ -382,6 +382,11 @@ ini adalah operasi kebalikan.
 - Sama dengan pada perulangan, break juga digunakan untuk menghentikan seluruh perulangan.
 - Namun berbeda dengan continue, continue digunakan untuk menghentikan perulangan saat ini, lalu melanjutkan ke perulangan selanjutnya.
 
+## For Each
+- Kadang kita biasa mengakses data array menggunakan perulangan.
+- Mengakses data array menggunakan perulangan sangat bertele-tele, kita harus membuat counter, lalu mengakses array menggunakan counter yang kita buat.
+- Namun untungnya, di Java terdapat perulangan for each, yang bisa digunakan untuk mengakses seluruh data di Array secara otomatis.
+
 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
