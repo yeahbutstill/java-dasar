@@ -432,6 +432,15 @@ ini adalah operasi kebalikan.
   atau lebih.
 - Parameter dengan tipe variable argument, hanya bisa ditempatkan di posisi akhir parameter.
 
-##  
+## Method Overloading
+- Method overloading adalah kemampuan membuat method dengan nama yang sama lebih dari sekali.
+- Namun ada ketentuannya, yaitu data parameter di method tersebut harus berbeda-beda, entah sejumlah atau tipe data parameternya.
+- jika ada yang sama, maka program Java kita akan error.
+
+## Recursive Method
+- Recursive method adalah kemampuan method memanggil method dirinya sendiri.
+- Kadang memang ada banyak problem, yang lebih mudah diselesaikan menggunakan recursive method, seperti contohnya kasus factorial.
+
+## 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
