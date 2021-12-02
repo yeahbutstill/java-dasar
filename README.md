@@ -446,6 +446,11 @@ ini adalah operasi kebalikan.
 - Jika recursive terlalu dalam, maka akan anda mungkin terjadi error StackOverflow, yaitu error dimana stack method terlalu banyak di Java.
 - Kenapa problem ini bisa terjadi? Karena ketika kita memanggil method, Java akan menyimpannya dalam stack, jika method tersebut memanggil method lain, maka stack akan menumpuk terus, dan jika terlalu dalam, maka stack akan terlalu besar, dan bisa menyebabkan error StackOverflow.
 
-## 
+## Scope
+- Di Java, variable hanya bisa diakses di dalam area dimana mereka dibuat.
+- Hal ini disebut dengan scope
+- Contoh, jika sebuah variable dibuat di method, maka hanya bisa diakses di method tersebut, atau jika dibuat didalam block, maka hanya bisa diakses didalam block tersebut.
+
+## K
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
