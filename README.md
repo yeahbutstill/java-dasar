@@ -394,6 +394,13 @@ ini adalah operasi kebalikan.
 - Kita bisa memanggil method dengan menggunakan nama method lalu diikuti dengan kurung () .
 - Di bahasa pemrograman lain. method juga disebut dengan Function.
 
-## 
+## Method Parameter
+- Kita bisa mengirim informasi ke method yang ingin kita panggil.
+- Untuk melakukan hal tersebut, kita perlu menambahkan parameter atau argument di method yang sudah kita buat.
+- Cara membuat parameter sama seperti cara membuat variable.
+- Parameter ditempatkan di dalam kurung () di deklarasi method.
+- Parameter bisa lebih dari satu, jika lebih dari satu, harus dipisah menggunakan tanda koma.
+
+
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
