@@ -387,6 +387,13 @@ ini adalah operasi kebalikan.
 - Mengakses data array menggunakan perulangan sangat bertele-tele, kita harus membuat counter, lalu mengakses array menggunakan counter yang kita buat.
 - Namun untungnya, di Java terdapat perulangan for each, yang bisa digunakan untuk mengakses seluruh data di Array secara otomatis.
 
+## Method
+- Method adalah blok kode program yang akan berjalan saat kita panggil.
+- Sebelumnya kita sudah menggunakan method print() untuk menampilkan tulisan di console.
+- Untuk membuat method di Java, kita bisa menggunakan kata kunci void, lalu diikuti dengan nama method, kurung () dan diakhiri dengan blok.
+- Kita bisa memanggil method dengan menggunakan nama method lalu diikuti dengan kurung () .
+- Di bahasa pemrograman lain. method juga disebut dengan Function.
 
+## 
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
