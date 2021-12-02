@@ -24,6 +24,6 @@ public class KodePerulanganForLoop {
         for (var count = 1; count <= 10; count++) {
             System.out.println("Perulangan Ke-" + count);
         }
-        
+
     }
 }

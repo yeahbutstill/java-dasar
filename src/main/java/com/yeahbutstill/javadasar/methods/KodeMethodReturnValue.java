@@ -9,9 +9,9 @@ public class KodeMethodReturnValue {
         System.out.println(c);
 
         // Operasi
-        System.out.println(hitung(100, "+", 400 ));
-        System.out.println(hitung(100, "-", 400 ));
-        System.out.println(hitung(100, "salah", 400 ));
+        System.out.println(hitung(100, "+", 400));
+        System.out.println(hitung(100, "-", 400));
+        System.out.println(hitung(100, "salah", 400));
     }
 
     public static int sum(int value1, int value2) {

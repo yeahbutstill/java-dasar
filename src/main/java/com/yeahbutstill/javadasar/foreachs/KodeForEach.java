@@ -13,7 +13,7 @@ public class KodeForEach {
         }
 
         System.out.println("===========Dengan For Each===================");
-        for (var ary: array) {
+        for (var ary : array) {
             System.out.println(ary);
         }
     }

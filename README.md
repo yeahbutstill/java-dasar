@@ -176,7 +176,7 @@ sudah semakin besar jumlahnya, agar mudah dibaca.
 - Tipe data bukan primitif bisa memiliki method/function.
 - Di Java, semua tipe data primitif memiliki representasi tipe data bukan primitif nya.
 - | Tipe Data Primitif | Tipe Data Bukan Primitif |
-            |-----------|-----------------------------------|
+              |-----------|-----------------------------------|
   |byte | Byte|
   |short | Short|
   |int | Integer|
@@ -362,39 +362,53 @@ ini adalah operasi kebalikan.
   }
 
 ```
+
 - Init statement akan dieksekusi hanya sekali di awal sebelum perulangan.
-- Kondisi akan dilakukan pengecekan dalam setiap perulangan, jika true perulangan akan dilakukan, jika false perulangan akan berhenti.
+- Kondisi akan dilakukan pengecekan dalam setiap perulangan, jika true perulangan akan dilakukan, jika false perulangan
+  akan berhenti.
 - Post statement akan dieksekusi setiap kali diakhiri perulangan.
-- Init statement, Kondisi dan Post Statement tidak wajib diisi, jika Kondisi tidak diisi, berarti kondisi selalu bernilai true.
+- Init statement, Kondisi dan Post Statement tidak wajib diisi, jika Kondisi tidak diisi, berarti kondisi selalu
+  bernilai true.
 
 ## While Loop
+
 - While loop adalah versi perulangan yang lebih sederhana dibandingkan dengan for loop.
 - Di While loop, hanya terdapat kondisi perulangan tanpa ada init statement dan post statement.
 
 ## Do While Loop
+
 - Do While loop adalah perulangan yang mirip dengan while.
 - Perbedaannya hanya pada pengecekan kondisi.
-- Pengecekan kondisi di while loop dilakukan di awal sebelum perulangan dilakukan, sedangkan di do while loop dilakukan setelah perulangan dilakukan.
+- Pengecekan kondisi di while loop dilakukan di awal sebelum perulangan dilakukan, sedangkan di do while loop dilakukan
+  setelah perulangan dilakukan.
 - Oleh karena itu dalam do while loop, minimal pasti sekali perulangan dilakukan walaupun kodisinya tidak bernilai true.
 
 ## Break & Continue
+
 - Pada switch statement, kita sudah mengenal kata kunci break, yaitu untuk menghentikan case dalam switch.
 - Sama dengan pada perulangan, break juga digunakan untuk menghentikan seluruh perulangan.
-- Namun berbeda dengan continue, continue digunakan untuk menghentikan perulangan saat ini, lalu melanjutkan ke perulangan selanjutnya.
+- Namun berbeda dengan continue, continue digunakan untuk menghentikan perulangan saat ini, lalu melanjutkan ke
+  perulangan selanjutnya.
 
 ## For Each
+
 - Kadang kita biasa mengakses data array menggunakan perulangan.
-- Mengakses data array menggunakan perulangan sangat bertele-tele, kita harus membuat counter, lalu mengakses array menggunakan counter yang kita buat.
-- Namun untungnya, di Java terdapat perulangan for each, yang bisa digunakan untuk mengakses seluruh data di Array secara otomatis.
+- Mengakses data array menggunakan perulangan sangat bertele-tele, kita harus membuat counter, lalu mengakses array
+  menggunakan counter yang kita buat.
+- Namun untungnya, di Java terdapat perulangan for each, yang bisa digunakan untuk mengakses seluruh data di Array
+  secara otomatis.
 
 ## Method
+
 - Method adalah blok kode program yang akan berjalan saat kita panggil.
 - Sebelumnya kita sudah menggunakan method print() untuk menampilkan tulisan di console.
-- Untuk membuat method di Java, kita bisa menggunakan kata kunci void, lalu diikuti dengan nama method, kurung () dan diakhiri dengan blok.
+- Untuk membuat method di Java, kita bisa menggunakan kata kunci void, lalu diikuti dengan nama method, kurung () dan
+  diakhiri dengan blok.
 - Kita bisa memanggil method dengan menggunakan nama method lalu diikuti dengan kurung () .
 - Di bahasa pemrograman lain. method juga disebut dengan Function.
 
 ## Method Parameter
+
 - Kita bisa mengirim informasi ke method yang ingin kita panggil.
 - Untuk melakukan hal tersebut, kita perlu menambahkan parameter atau argument di method yang sudah kita buat.
 - Cara membuat parameter sama seperti cara membuat variable.
@@ -402,11 +416,22 @@ ini adalah operasi kebalikan.
 - Parameter bisa lebih dari satu, jika lebih dari satu, harus dipisah menggunakan tanda koma.
 
 ## Method Return Value
-- Secara default, method itu tidak menghasilkan value apapun, namun jika kita ingin, kita bisa membuat sebuah method mengembalikan nilai.
+
+- Secara default, method itu tidak menghasilkan value apapun, namun jika kita ingin, kita bisa membuat sebuah method
+  mengembalikan nilai.
 - Agar method bisa menghasilkan value, kita harus mengubah kata kunci void dengan tipe data yang dihasilkan.
-- Dan didalam blok method, untuk menghasilkan nilai tersebut, kita harus menggunakan kata kunci return, lalu diikuti dengan data yang sesuai dengan tipe data yang sudah kita deklarasikan di method.
+- Dan didalam blok method, untuk menghasilkan nilai tersebut, kita harus menggunakan kata kunci return, lalu diikuti
+  dengan data yang sesuai dengan tipe data yang sudah kita deklarasikan di method.
 - Di Java, kita hanya bisa menghasilkan 1 data di sebuah method, tidak bisa lebih dari satu.
 
-##
+## Method Variable Argument
+
+- Kadang kala kita butuh mengirim data ke method sejumlah data yang tidak pasti.
+- Biasanya, agar bisa seperti ini, kita akan menggunakan Array sebagai parameter di method tersebut.
+- Namun di Java, kita bisa menggunakan variable argument, untuk mengirim data yang berisi jumlah tak tentu, bisa nol
+  atau lebih.
+- Parameter dengan tipe variable argument, hanya bisa ditempatkan di posisi akhir parameter.
+
+##  
 
 # [Terima Kasihku(Guruku) A.K.A Orang Ganteng dan Intelek](https://www.udemy.com/user/eko-kurniawan/)
